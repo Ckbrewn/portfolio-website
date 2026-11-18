@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ckbrewn.github.io/portfolio-website/sitemap.xml
